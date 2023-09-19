@@ -26,7 +26,7 @@ whatsapp.startSession("ilsya");
 ```
 
 ### running
-```
-<!-- node [file yang di run] -->
+```ts
+// node [file yang di run]
 node index.js
 ```
