@@ -1,5 +1,5 @@
 # BroadcastWhatsApp
-## [#f03c15](Warning!!: Do not abuse the use of)[#f03c15]
+## [#f03c15](Warning!!: Do not abuse the use of)
 
 menghubungkan aplikasi anda dengan whatsapp
 Pustaka ringan untuk whatsapp. Tidak memerlukan Selenium atau browser lainnya
