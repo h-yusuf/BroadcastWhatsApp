@@ -21,6 +21,6 @@ Start New Session
 
 ```ts
 // buat sesi dengan ID : [Nama ID Kalian]
-const session = await whatsapp.startSession("ilsya");
+whatsapp.startSession("ilsya");
 // Kemudian, pindai QR di terminal
 ```
